@@ -1,0 +1,75 @@
+Practica 3 - Algoritmos
+Maquina NEPAL 26 26/Agosto/2019
+
+1) Pre-condiciones y Campos de salida.
+
+	a)Pescar:
+		- Caña de pescar.
+		- Carnada para pesca.
+		- Bote.
+		- Ir a un lugar para pescar.
+		- 
+
+	b) Lavarse las manos:
+		- Ir a un lavabo
+		- Tener jabón
+		- 
+
+	c)Cambiar llanta:
+		- Tener un gato hidráulico
+		- Tener la refacción de la llanta.  
+		- Tener una llave.
+		-
+
+	d)Convertir un número binario a decimal:
+		- Tener un numero decimal.
+		-
+
+2) Desarrollar los algoritmos.
+	
+	a) Determinar si un número es positivo o negativo:
+	
+	b) Obtener el mayor de dos números diferentes:
+
+	c) Obtener el factorial de un número:
+
+3) Verifica Los algoritmos:
+
+	a) Determinar si un número es positivo o negativo:
+
+		i) 54:
+
+		ii) -9:
+
+		iii) -14:
+
+		iv) 8:
+
+		v) 0:
+	
+	b) Obtener el mayor de dos números diferentes:
+
+		i) (4,5):
+
+		ii) (-9,16):
+
+		iii) (127, 8+4i):
+
+		iv) (7, m):
+
+	c) Obtener el factorial de un número:
+		
+		i) 5:
+
+		ii) 9:
+
+		iii) 0:
+
+		iv) -3:
+
+4) Desarrollar algoritmos propios de un procesador (asignando registros genéricos).
+
+	a) Cambiar el signo de un número binario:
+
+	b) Hacer una suma binaria larga:
+
